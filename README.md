@@ -16,6 +16,7 @@ Munkáim:
 -
 TBD
 
+<br><br><br>
 <hr>
 <img width="2%" src="https://em-content.zobj.net/thumbs/120/joypixels/340/flag-united-kingdom_1f1ec-1f1e7.png">
 
@@ -31,6 +32,8 @@ My works:
 -
 TBD
 
+<br><br><br>
+<hr>
 <br><br><br>
 <p align="right">Kiss Balázs<br>
 CXGUF5</p>
