@@ -16,5 +16,5 @@ Ha kérdésed van, keress fel az Egyetem hálózatán/Neptunon.
 ### Welcome to my profile!
 A little bit information, introduction.<br>
 My name is Balázs Kiss, currently a student at ELTE's Faculty of Informatics on Software Information Technology higher-level vocational training.<br>
-This is where the repositories will be that is required to complete a course (assignments, tasks, etc).<br><br>
+This is where the repositories will be that are required to complete a course (assignments, tasks, etc).<br><br>
 If you got a question, contact me through the University's network/organisation or on Neptun.
