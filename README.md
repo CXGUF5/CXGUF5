@@ -7,7 +7,7 @@
 ### Üdv a profilomnál!
 
 Egy kis információ, bemutatkozás.<br>
-Kiss Balázs vagyok, hallgató az ELTE Informatikai Karán, jelenleg programtervezői informatikus \[fejlesztő] szakon.<br>
+Kiss Balázs vagyok, hallgató az ELTE Informatikai Karán, jelenleg programtervező informatikus \[fejlesztő] szakon.<br>
 Ide kerülnek azok a repo-k melyek szükségesek egy-egy tantárgy elvégzésére (beadandók, feladatok, stb).<br><br>
 Ha kérdésed van, keress fel az Egyetem hálózatán/Neptunon.
 <hr>
